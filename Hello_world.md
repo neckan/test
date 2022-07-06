@@ -10,3 +10,5 @@
 4. ZaPUSHit'
 5. Izmenit' v Github
 6. ZaPULLit
+
+Huevina s gita dlya checka 
